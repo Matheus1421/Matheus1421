@@ -3,59 +3,25 @@
 </div>
 
 <div align="center">
-  <h1>Matheus Marques</h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=004d26&height=200&section=header&text=Matheus%20Marques&fontSize=70&animation=fadeIn&fontAlignY=35" />
+
   <p><strong>Automações | Ciência de Dados | Chatbots e IA's</strong></p>
-  <a href="www.linkedin.com/in/matheus-da-fonseca-marques-63368526a" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+
+  <a href="https://www.linkedin.com/in/matheus-da-fonseca-marques-63368526a" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:matheusdafonsecamarques@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white">
   </a>
-</div>
-</div>
 
-### 📝 Sobre mim
-Sou estudante de Sistemas de Informação e me encontro no sexto período da minha graduação, na UNIRIO - Universidade Federal do Estado do Rio de Janeiro. Tenho as áreas de Dados, Atuomações e IA como minhas áreas de maior interesse e venho me aprofundando nas mesmas.
+  <br><br>
+
+  <div align="center">
+    <h3>📝 Sobre mim</h3>
+    <p>
+      Sou estudante de Sistemas de Informação e me encontro no sexto período da minha graduação, na <b>UNIRIO - Universidade Federal do Estado do Rio de Janeiro</b>. Tenho as áreas de Dados, Automações e IA como minhas áreas de maior interesse e venho me aprofundando nas mesmas.
+    </p>
+  </div>
+</div>
 
 ---
-
-### 🛠️ Tecnologias e Ferramentas
-
-#### **Linguagens e Desenvolvimento**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-#### **Ciência e Engenharia de Dados**
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-
----
-
-### 🚀 Portfólio em Destaque
-
-* **📊 Análise de Dados com Python & Streamlit:** Meu primeiro projeto focado em dados, cobrindo todo o pipeline de ETL (extração, transformação e carga) e visualização interativa.
-* **🏗️ Liderança Técnica (Tech Lead):** Repositório onde geri o ciclo de vida do desenvolvimento, garantindo padrões de projeto e entregas de qualidade.
-* **📝 Análise de Requisitos:** Projeto focado na documentação, mapeamento de processos e ponte entre stakeholders e desenvolvimento.
-* **💻 Desenvolvimento Core:** Repositório com foco em lógica de programação e implementação de funcionalidades complexas.
-
----
-
-### 📫 Vamos nos conectar?
-<div align="left">
-  <a href="https://www.linkedin.com/in/SEU_LINK_AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:seuemail@exemplo.com">
-    <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank">
-  </a>
-</div>
-
-<hr />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</div>
