@@ -14,14 +14,8 @@
 </div>
 </div>
 
----
-
 ### 📝 Sobre mim
-Sou um entusiasta da tecnologia apaixonado por transformar dados brutos em decisões inteligentes. Atualmente, foco minha carreira na área de **Dados**, unindo minha experiência em engenharia de software e análise de requisitos para construir soluções robustas e escaláveis.
-
-* 🔭 Atualmente sou **Estagiário de Sistemas e Dados no Grupo ITER**.
-* 🤖 Atuei como **Bolsista CNPq - IT** desenvolvendo soluções com Chatbots.
-* 🎓 Graduando em Sistemas de Informação com foco em IA e Gestão de Negócios.
+Sou estudante de Sistemas de Informação e me encontro no sexto período da minha graduação, na UNIRIO - Universidade Federal do Estado do Rio de Janeiro. Tenho as áreas de Dados, Atuomações e IA como minhas áreas de maior interesse e venho me aprofundando nas mesmas.
 
 ---
 
