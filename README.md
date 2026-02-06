@@ -48,10 +48,6 @@
   <img src="https://img.shields.io/static/v1?label=&message=Ollama&color=000000&style=for-the-badge&logo=ollama&logoColor=white" />
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8" alt="Linguagens mais usadas" />
-</div>
+<br>S
 
 ---
