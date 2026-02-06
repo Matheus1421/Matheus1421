@@ -22,31 +22,34 @@
 </div>
 
 ---
+
 <div align="center">
   <h3>Ferramentas e Tecnologias</h3>
   <br>
 
-  <table>
+  <table border="0">
     <tr>
-      <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="180"></td>
-      <td align="center"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" width="180"></td>
-      <td align="center"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" width="180"></td>
-      <td align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="180"></td>
+      <td align="center" width="200" height="50"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></td>
+      <td align="center" width="200" height="50"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /></td>
+      <td align="center" width="200" height="50"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /></td>
+      <td align="center" width="200" height="50"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></td>
     </tr>
     <tr>
-      <td align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="180"></td>
-      <td align="center"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="180"></td>
-      <td align="center"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" width="180"></td>
-      <td align="center"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" width="180"></td>
+      <td align="center" width="200" height="50"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></td>
+      <td align="center" width="200" height="50"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></td>
+      <td align="center" width="200" height="50"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /></td>
+      <td align="center" width="200" height="50"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /></td>
     </tr>
     <tr>
-      <td align="center"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" width="180"></td>
-      <td align="center"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" width="180"></td>
-      <td align="center"><img src="https://img.shields.io/badge/Automation_Anywhere-FF6D00?style=for-the-badge&logo=automationanywhere&logoColor=white" width="180"></td>
-      <td align="center"><img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" width="180"></td>
+      <td align="center" width="200" height="50"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /></td>
+      <td align="center" width="200" height="50"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /></td>
+      <td align="center" width="200" height="50"><img src="https://img.shields.io/badge/Automation_Anywhere-FF6D00?style=for-the-badge&logo=automationanywhere&logoColor=white" /></td>
+      <td align="center" width="200" height="50"><img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" /></td>
     </tr>
   </table>
 </div>
+
+---
 
 ---
 
