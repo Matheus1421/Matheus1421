@@ -3,9 +3,15 @@
 </div>
 
 <div align="center">
-  <h1>Olá, eu sou o Matheus! 👋</h1>
-  <p><strong>Aspirante a Especialista em Dados | Ciência, Engenharia e Análise</strong></p>
-  <p>Estudante de Sistemas de Informação (UFRJ/Estácio - Formatura 2027) | Rio de Janeiro</p>
+  <h1>Matheus Marques</h1>
+  <p><strong>Automações | Ciência de Dados | Chatbots e IA's</strong></p>
+  <a href="www.linkedin.com/in/matheus-da-fonseca-marques-63368526a" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:matheusdafonsecamarques@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank">
+  </a>
+</div>
 </div>
 
 ---
