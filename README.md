@@ -55,12 +55,3 @@
 </div>
 
 ---
-      <td align="center" width="200" height="50"><img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" /></td>
-    </tr>
-  </table>
-</div>
-
----
-
----
-
