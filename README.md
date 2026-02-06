@@ -54,8 +54,8 @@
   <h3>Trajetória Profissional</h3>
 </div>
 
-#### 🏢 **Estagiário de Sistemas e Dados** | [Grupo ITER](https://www.grupoiter.com.br/) 
-*Novembro 2026 – Presente*
+#### 🏢 **Estagiário de Sistemas e Dados** | Grupo ITER
+*Janeiro 2026 – Presente*
 > Atuação em uma das maiores holdings de turismo e entretenimento da América Latina.
 * **Manutenção de ERP:** Sustentação do sistema core que fomenta todas as empresas coligadas do grupo.
 * **Automação & Integração:** Desenvolvimento de automações de processos e integração de sistemas complexos, incluindo o **ERP RM da TOTVS**.
@@ -63,8 +63,8 @@
 
 ---
 
-#### 🎓 **Bolsista de Iniciação Tecnológica (IT)** | [CNPq](https://www.gov.br/cnpq/pt-br)
-*Abril 2025 – Outubro 2025*
+#### 🎓 **Bolsista de Iniciação Tecnológica (IT)** | CNPq
+*Maio 2025 – Dezembro 2025*
 > Pesquisa voltada para o conceito de **Micro-learning** aplicado ao ambiente educacional.
 * **Desenvolvimento de Chatbot:** Criação de uma solução ponta a ponta utilizando **Django** no back-end.
 * **Inteligência Artificial:** Integração com o **Ollama** para comunicação com modelos de linguagem de larga escala (LLMs), como o **Gemma3**.
@@ -72,10 +72,11 @@
 
 ---
 
-#### 🏫 **Desenvolvedor de Software (Extensão)** | [Aloca UNIRIO](https://www.unirio.br/)
-*Janeiro 2026 – Presente*
+#### 🏫 **Desenvolvedor de Software (Extensão)** | Aloca UNIRIO
+*Agosto 2025 – Presente*
 > Projeto estratégico para otimização da infraestrutura acadêmica da universidade.
 * **Algoritmos de Otimização:** Desenvolvimento de lógica para solucionar problemas de alocação de salas e horários para múltiplos cursos.
 * **Engenharia de Soluções:** Transformação de regras de negócio complexas em código para garantir a melhor organização possível do espaço físico.
 
----
+<br>
+<hr />
