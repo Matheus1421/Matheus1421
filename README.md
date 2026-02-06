@@ -10,8 +10,6 @@
   <p>
     <a href="https://www.linkedin.com/in/matheus-da-fonseca-marques-63368526a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%23007acc?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;<a href="mailto:matheusdafonsecamarques@gmail.com"><img src="https://img.shields.io/badge/Email-%23007acc?style=for-the-badge&logo=Gmail&logoColor=white"></a>
   </p>
-  
-  <hr style="margin: 5px 0;" />
 
   <div align="center">
     <h3 style="margin-top: 5px;">Sobre mim</h3>
