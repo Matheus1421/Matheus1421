@@ -48,6 +48,4 @@
   <img src="https://img.shields.io/static/v1?label=&message=Ollama&color=000000&style=for-the-badge&logo=ollama&logoColor=white" />
 </div>
 
-<br>S
-
 ---
