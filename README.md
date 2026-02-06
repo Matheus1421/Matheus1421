@@ -25,25 +25,36 @@
 
 <div align="center">
   <h3>Ferramentas e Tecnologias</h3>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?label=&message=Python&color=3776AB&style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/static/v1?label=&message=Java&color=ED8B00&style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/static/v1?label=&message=C&color=00599C&style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&style=for-the-badge&logo=javascript&logoColor=black" />
+  
   <br>
 
-  <table border="0">
-    <tr>
-      <td align="center" width="200" height="50"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></td>
-      <td align="center" width="200" height="50"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /></td>
-      <td align="center" width="200" height="50"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /></td>
-      <td align="center" width="200" height="50"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></td>
-    </tr>
-    <tr>
-      <td align="center" width="200" height="50"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></td>
-      <td align="center" width="200" height="50"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></td>
-      <td align="center" width="200" height="50"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /></td>
-      <td align="center" width="200" height="50"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /></td>
-    </tr>
-    <tr>
-      <td align="center" width="200" height="50"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /></td>
-      <td align="center" width="200" height="50"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /></td>
-      <td align="center" width="200" height="50"><img src="https://img.shields.io/badge/Automation_Anywhere-FF6D00?style=for-the-badge&logo=automationanywhere&logoColor=white" /></td>
+  <img src="https://img.shields.io/static/v1?label=&message=HTML5&color=E34F26&style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/static/v1?label=&message=CSS3&color=1572B6&style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/static/v1?label=&message=Django&color=092E20&style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/static/v1?label=&message=Bootstrap&color=7952B3&style=for-the-badge&logo=bootstrap&logoColor=white" />
+  
+  <br>
+
+  <img src="https://img.shields.io/static/v1?label=&message=Pandas&color=150458&style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/static/v1?label=&message=Streamlit&color=FF4B4B&style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/static/v1?label=&message=Automation%20Anywhere&color=FF6D00&style=for-the-badge&logo=automationanywhere&logoColor=white" />
+  <img src="https://img.shields.io/static/v1?label=&message=Ollama&color=000000&style=for-the-badge&logo=ollama&logoColor=white" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8" alt="Linguagens mais usadas" />
+</div>
+
+---
       <td align="center" width="200" height="50"><img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" /></td>
     </tr>
   </table>
