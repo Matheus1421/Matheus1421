@@ -51,7 +51,7 @@
 </div>
 
 #### 🏢 **Systems & Data Intern** | Grupo ITER
-*January 2026 – Present*
+*November 2025 – Present*
 > Working for one of the largest tourism and entertainment holdings in Latin America.
 * **ERP Maintenance:** Supporting the core system that drives all affiliated companies.
 * **Automation & Integration:** Developing process automations and complex system integrations, including **TOTVS RM ERP**.
@@ -60,7 +60,7 @@
 ---
 
 #### 🎓 **IT Research Fellow** | CNPq
-*May 2025 – December 2025*
+*May 2025 – October 2025*
 > Research focused on **Micro-learning** concepts using chatbots in educational environments.
 * **Chatbot Development:** Built an end-to-end solution using **Django** for the back-end.
 * **Artificial Intelligence:** Integrated **Ollama** for seamless communication with LLMs, such as **Gemma3**.
