@@ -13,7 +13,7 @@
   <div align="center">
     <h3 style="margin-top: 20px;">About me</h3>
     <p>
-      I am an Information Systems undergraduate student currently in my 6th semester at <b>UNIRIO - Federal University of the State of Rio de Janeiro</b>. My core expertise and interests lie in Data Science, Automations, and Artificial Intelligence, fields in which I am constantly deep-diving to build innovative solutions.
+      I am an Information Systems undergraduate student currently in my 6th semester at <b>UNIRIO - Federal University of the State of Rio de Janeiro</b>. My core expertise and interests lie in Data Science, Data Engineering, and Artificial Intelligence, fields in which I am constantly deep-diving to build innovative solutions.
     </p>
   </div>
 </div>
