@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=220&section=header&text=Matheus%20Marques&fontSize=75&animation=fadeIn&fontAlignY=38&fontStyle=ubuntu&fontColor=ffffff" />
 
   <!-- Aumentamos o tamanho da fonte para 28px e o peso para 800 (extra negrito) -->
-  <p style="font-size: 28px; font-weight: 800; color: #333333; margin-top: 15px; margin-bottom: 25px;">
+  <p style="font-size: 38px; font-weight: 1000; color: #333333; margin-top: 15px; margin-bottom: 25px;">
     Automations | Data | ERP | AI & Chatbots
   </p>
 
