@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=220&section=header&text=Matheus%20Marques&fontSize=75&animation=fadeIn&fontAlignY=38&fontStyle=ubuntu&fontColor=ffffff" />
 
-  <h2>Automations | Data Science | Chatbots & AI</h2>
+  <h2>Automations | Data | ERP | AI & Chatbots</h2>
 
  <p>
     <a href="https://www.linkedin.com/in/matheus-da-fonseca-marques-63368526a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%23007acc?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;<a href="mailto:matheusdafonsecamarques@gmail.com"><img src="https://img.shields.io/badge/Email-%23007acc?style=for-the-badge&logo=Gmail&logoColor=white"></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Niterói,%20RJ--Brazil-007acc?style=for-the-badge&logo=googlemaps&logoColor=white">
